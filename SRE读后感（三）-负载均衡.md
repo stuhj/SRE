@@ -86,7 +86,9 @@
 
 #### 2. 确定性算法：（与书中描述一致）
 
+
 ![image](http://note.youdao.com/yws/public/resource/bc95c9115d7a3435cbee9d0e91d97b49/xmlnote/8B02F11BD0A74D91911676264B5E7A6A/2200)
+
 
 #### 结果：
 ![image](http://note.youdao.com/yws/public/resource/bc95c9115d7a3435cbee9d0e91d97b49/xmlnote/CD3845982F964532A7196FB4170B30F1/2202)
